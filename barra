@@ -1,0 +1,5 @@
+var myBarChart = new Chart(ctx, {
+    type: 'horizontalBar',
+    data: data,
+    options: options
+});
